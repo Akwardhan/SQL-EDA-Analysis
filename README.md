@@ -57,5 +57,5 @@ The complete SQL queries used in the analysis can be found in [EDA_Script.sql](h
 ## Author
 **Anmol Kirtiwardhan**  
 
-• [LinkedIn](https://www.linkedin.com)  
-• [Portfolio](https://your-portfolio.com)
+•[LinkedIn](https://www.linkedin.com)  
+•[Portfolio](https://your-portfolio.com)
