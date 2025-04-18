@@ -31,7 +31,7 @@ Aggregated the total number of people laid off by country and year to analyze re
 
 ![Total Laid Off](https://github.com/Akwardhan/SQL-EDA-Analysis/blob/main/SQL-EDA-Analysis/Screenshots/2_Sum%20total%20laid%20off.png)
 
-### 3. Percentage of Laid Off by Country and Year
+### 3. Percentage of Laid Off by Company
 Analyzed the percentage of layoffs by country and year to see how the workforce was impacted across different regions.
 
 ![Percentage Laid Off](https://github.com/Akwardhan/SQL-EDA-Analysis/blob/main/SQL-EDA-Analysis/Screenshots/3_Sum%20percentage%20laid%20off.png)
