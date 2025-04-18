@@ -5,7 +5,7 @@ This project demonstrates an Exploratory Data Analysis (EDA) process using SQL o
 
 ## Tools Used
 - **MySQL Workbench**  
-- **SQL** (CTEs, Aggregation, Ranking and more)
+- **SQL** (CTEs, Aggregation, Ranking, and more)
 
 ## Language
 - **SQL**
@@ -36,7 +36,7 @@ Analyzed the percentage of layoffs by country and year to see how the workforce 
 
 ![Percentage Laid Off](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/Screenshots/3_Sum_Percentage_Laid_Off.png)
 
-### 4. Rolling Total of Laid Off Employees
+### 4. Rolling Total of Laid-Off Employees
 Calculated the rolling total of layoffs to understand how layoffs accumulated over time.
 
 ![Rolling Total](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/Screenshots/4_Rolling_Total.png)
@@ -51,7 +51,7 @@ The complete SQL queries used in the analysis can be found in [EDA_Script.sql](h
 
 ## Learnings
 - Enhanced skills in SQL for performing EDA on large datasets.
-- Gained experience using advanced SQL functions like CTEs, Window Functions, and Aggregations.
+- Gained experience using advanced SQL functions like CTEs, Ranking, Aggregations and more
 - Developed a deep understanding of how layoffs impact companies and industries across different regions.
 
 ## Author
