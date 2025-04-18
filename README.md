@@ -27,12 +27,12 @@ The project uses a cleaned dataset from a previous data cleaning phase, where du
 ![Cleaned Data](https://github.com/Akwardhan/SQL-EDA-Analysis/blob/main/SQL-EDA/Screenshots/1_Cleaned%20data%20for%20EDA.png)
 
 ### 2. Total Laid Off by Country and Year
-Aggregated the total number of people laid off by country and year to analyze regional trends.
+Aggregated the total number of people laid off by country and year to analyze country-specific trends.
 
 ![Total Laid Off](https://github.com/Akwardhan/SQL-EDA-Analysis/blob/main/SQL-EDA/Screenshots/2_Sum%20total%20laid%20off.png)
 
 ### 3. Percentage of Laid Off by Company
-Analyzed the percentage of layoffs by country and year to see how the workforce was impacted across different regions.
+Analyzed the percentage of layoffs by company to understand how individual companies were impacted.
 
 ![Percentage Laid Off](https://github.com/Akwardhan/SQL-EDA-Analysis/blob/main/SQL-EDA/Screenshots/3_Sum%20percentage%20laid%20off.png)
 
@@ -52,7 +52,7 @@ The complete SQL queries used in the analysis can be found in [EDA_Script.sql](h
 ## Learnings
 - Enhanced skills in SQL for performing EDA on large datasets.
 - Gained experience using advanced SQL functions like CTEs, Ranking, Aggregations, and more
-- Developed a deep understanding of how layoffs impact companies and industries across different regions.
+- Developed a deep understanding of how layoffs impact companies and industries across different countries.
 
 ## Author
 **Anmol Kirtiwardhan**  
