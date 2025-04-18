@@ -1,2 +1,61 @@
 # SQL-EDA-Analysis
-This project demonstrates Exploratory Data Analysis (EDA) using SQL on a cleaned layoff dataset from global companies. It focuses on analyzing layoffs by country, year, and company, utilizing advanced SQL techniques like aggregation, and ranking to uncover key trends and insights.
+
+## Overview
+This project demonstrates an Exploratory Data Analysis (EDA) process using SQL on a layoff dataset from global companies. The data was cleaned in a previous project, and this analysis focuses on uncovering insights, trends, and patterns related to layoffs across different countries and years.
+
+## Tools Used
+- **MySQL Workbench**  
+- **SQL** (CTEs, Aggregation, Ranking and more)
+
+## Language
+- **SQL**
+
+## Dataset
+The dataset contains 2000+ layoff records from various global companies, with data points like company name, country, total laid off, and percentage laid off. It was cleaned and preprocessed in the previous project.
+
+## Objectives
+- Perform Exploratory Data Analysis (EDA) to understand layoff trends.
+- Summarize layoffs by country and year.
+- Calculate rolling totals and ranks of layoffs.
+- Visualize key insights from the dataset.
+
+## Key Steps
+
+### 1. Cleaned Data Overview
+The project uses a cleaned dataset from a previous data cleaning phase, where duplicates were removed, and the data was standardized.
+
+![Cleaned Data](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/Screenshots/1_Cleaned_Data.png)
+
+### 2. Total Laid Off by Country and Year
+Aggregated the total number of people laid off by country and year to analyze regional trends.
+
+![Total Laid Off](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/Screenshots/2_Total_Layoffs_Country_Year.png)
+
+### 3. Percentage of Laid Off by Country and Year
+Analyzed the percentage of layoffs by country and year to see how the workforce was impacted across different regions.
+
+![Percentage Laid Off](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/Screenshots/3_Sum_Percentage_Laid_Off.png)
+
+### 4. Rolling Total of Laid Off Employees
+Calculated the rolling total of layoffs to understand how layoffs accumulated over time.
+
+![Rolling Total](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/Screenshots/4_Rolling_Total.png)
+
+### 5. Companies with the Most Layoffs in a Year
+Identified the company that laid off the most employees in a given year, highlighting major workforce reductions.
+
+![Top Company Layoffs](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/Screenshots/5_Top_Company_Layoffs.png)
+
+## SQL Script
+The complete SQL queries used in the analysis can be found in [EDA_Script.sql](https://github.com/YourUsername/SQL-EDA-Analysis/blob/main/SQL/EDA_Script.sql).
+
+## Learnings
+- Enhanced skills in SQL for performing EDA on large datasets.
+- Gained experience using advanced SQL functions like CTEs, Window Functions, and Aggregations.
+- Developed a deep understanding of how layoffs impact companies and industries across different regions.
+
+## Author
+**Anmol Kirtiwardhan**  
+
+• [LinkedIn](https://www.linkedin.com)  
+• [Portfolio](https://your-portfolio.com)
