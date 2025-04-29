@@ -1,4 +1,4 @@
-#  SQL EDA Project
+# SQL Data Exploration & Insights Project -Layoffs Dataset
 
 ## Overview
 This project demonstrates an Exploratory Data Analysis (EDA) process using SQL on a layoff dataset from global companies. The data was cleaned in a previous project, and this analysis focuses on uncovering insights, trends, and patterns related to layoffs across different countries and years.
